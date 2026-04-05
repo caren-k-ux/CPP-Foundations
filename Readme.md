@@ -1,7 +1,7 @@
 #KEY CONCEPTS AND ANALOGIES
 ### Namespaces & the "The Front Street" Collisions 
 ## The Problem: 
--In a large program, two different libraries must use the same  name for a function or variable. This creates nameing collisions
+-In a large program, where two different libraries use the same  name for a function or variable. This creates naming collisions
 
 ## The Analogy:
 -Imagine you are invited to "245 Front street" If the city has two different  "Front streets." you are lost. Even if they are mile apart without a unique identifier, the address is ambigous
