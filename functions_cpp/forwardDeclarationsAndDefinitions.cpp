@@ -90,3 +90,4 @@ int main()
 // The function body is not included in the declaration
 //Here's a function declaration for the add function:
 //int add(int x, int y); //function declaration includes return type, name, parameters, and a semicolon. No function body!
+//REFER TO  input.cpp, main.cpp, input.h
